@@ -21,6 +21,7 @@ export default {
         destructive: "hsl(var(--destructive))",
         "destructive-foreground": "hsl(var(--destructive-foreground))",
         input: "hsl(var(--input))",
+        
         ring: "hsl(var(--ring))",
       },
       borderRadius: {
