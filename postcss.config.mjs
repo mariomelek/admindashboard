@@ -1,7 +1,7 @@
 /** @type {import('postcss-load-config').Config} */
 const config = {
   typescript:{
-    ignoreBuildErrors: ture,
+    ignoreBuildErrors: true,
   },
   plugins: {
     tailwindcss: {},
